@@ -1,0 +1,43 @@
+* Compare the sales and orders using single chart?
+* which month got the highest  sales and orders?
+* who purchased more men or women in 2022?
+* what are different order status in 2022?
+* List top 10 states contributing to the sales?
+* Relation between age and gender based on number of orders?
+* Which channel is contributing to maximum sales?
+
+
+
+INSIGHTS
+
+* which month got the highest  sales and orders?
+- Highest sales on March
+* who purchased more men or women in 2022?
+- Women purchased more than man
+* what are different order status in 2022?
+- Most of the item delivered
+* List top 10 states contributing to the sales?
+- MAHARASHTRA
+KARNATAKA
+UTTAR PRADESH
+TELANGANA
+TAMIL NADU
+DELHI
+KERALA
+WEST BENGAL
+ANDHRA PRADESH
+HARYANA
+* Relation between age and gender based on number of orders?
+- Adult womens are the highest customer catagory
+* Which channel is contributing to maximum sales?
+- Amazon contributing maximum
+
+
+# Women are more likely to buy compared to men
+# Maharashtra, Karnataka, Uttar Pradesh are the top 3 states according to sales
+# Adult age group (30-49) is max contributing
+# Amazon Flipkart Myntra top 3 Channels
+
+Final Conclusion to improve Vrinda Store Sales:
+
+Target women Customers of age group 30-49 living in Maharashtra , Karnataka, UttarPradesh by showing Ads/offer/cupon available in Amazon, Flipkart , Myntra
